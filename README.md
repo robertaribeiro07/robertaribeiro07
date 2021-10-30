@@ -7,7 +7,7 @@ Roberta Ribeiro 👋
 
 ## Linguagens que utilizo
 
-- [NodeJS](https://nodejs.org)
+- [DJango](https://www.djangoproject.com)
 - [Python](https://www.python.org)
 - [JavaScript](https://developer.mozilla.org)
 - [HTML](https://www.w3schools.com)
