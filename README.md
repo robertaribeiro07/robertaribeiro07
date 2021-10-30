@@ -12,6 +12,7 @@ Roberta Ribeiro 👋
 - [JavaScript](https://developer.mozilla.org)
 - [HTML](https://www.w3schools.com)
 - [CSS](https://www.w3schools.com)
+- [Java](https://www.java.com)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=robertaribeiro07&theme=blue-green)
 
